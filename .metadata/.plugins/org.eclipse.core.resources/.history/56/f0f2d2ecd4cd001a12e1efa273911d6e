@@ -1,0 +1,12 @@
+package aula12;
+
+public class Animal {
+	protected float peso;
+	protected int idade;
+	protected int membros;
+	
+	//get e set
+	
+	
+	
+}

@@ -1,0 +1,14 @@
+package projetovideo;
+
+public class ProjetoVideo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Video v[] = new Video[2];
+		v[0] = new Video("aula14");
+		v[1] = new Video("aula13");
+		System.out.println(v[0].toString());
+		System.out.println(v[1].toString());
+	}
+
+}
